@@ -1,4 +1,1 @@
 <<<< website goes here
-
-<<< some error here >>>
-\ no newline at end of file
